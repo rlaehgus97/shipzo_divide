@@ -5,6 +5,8 @@ The simple python dividing function
 ```$pip install shipzo_divide```
 
 ### codes
+```
 def divide(a,b):
     print(a/b)
+```
 
